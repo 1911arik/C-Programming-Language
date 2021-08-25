@@ -5,5 +5,3 @@ int main() {
    
    return 0;
 } 
-
-hABH8*$WvD/)3tC
